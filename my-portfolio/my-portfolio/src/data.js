@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Project 1",
-    subtitle: "MERN Stack",
+    subtitle: "retail therapy",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Project 2",
-    subtitle: "React and Python",
+    subtitle: "Thingamaling",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Project 3",
-    subtitle: "React and Firebase",
+    subtitle: "Grouper",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
