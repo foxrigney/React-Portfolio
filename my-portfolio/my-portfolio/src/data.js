@@ -11,7 +11,7 @@ export const projects = [
     title: "Project 2",
     subtitle: "Book Search Engine",
     description:
-      "An app designed by me and another student to make a better search process but this time with books. ",
+      "An app designed by me and another student to make a even better search process but this time with books. ",
     image: "./project-2.gif",
     link: "https://book-search-engine-4.herokuapp.com/",
   },
@@ -19,16 +19,16 @@ export const projects = [
     title: "Project 3",
     subtitle: "Grouper",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://www.youtube.com/watch?v=16i1WNmXn5Y",
+      "Cut out the awkward middle man, meet people who already share interests with you, and plan an event with them on grouper.",
+    image: "./grouper.gif",
+    link: "https://github.com/damienluzzo33/Grouper-App",
   },
   {
     title: "Project 4",
     subtitle: "Cactus",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "Cactus is a project seeking to make desktop messaging easy, stylish, and permanently dark mode for users.",
+    image: "./project-3.gif",
     link: "https://www.youtube.com/watch?v=Qi1KebO4bzc",
   },
 ];
