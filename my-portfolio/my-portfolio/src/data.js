@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Cactus is a project seeking to make desktop messaging easy, stylish, and permanently dark mode for users.",
     image: "./project-3.gif",
-    link: "https://www.youtube.com/watch?v=Qi1KebO4bzc",
+    link: "https://github.com/cole-cochran/Cactus-Social",
   },
 ];
 
