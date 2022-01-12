@@ -14,9 +14,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            Learned over the course of 3 months, I like to keep my coding experience rounded and up to date with whatever is required of me. Even though I love front end work, I'm always able to adapt and work on what is needed.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

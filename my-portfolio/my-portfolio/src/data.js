@@ -1,19 +1,19 @@
 export const projects = [
   {
     title: "Project 1",
-    subtitle: "retail therapy",
+    subtitle: "Retail Therapy",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An group designed app made in basic in html to give your retail therapy a smooth face that is linked to amazon when you search your products.",
     image: "./project-1.gif",
     link: "https://www.youtube.com/watch?v=xHoxkD8kKJg",
   },
   {
     title: "Project 2",
-    subtitle: "Thingamaling",
+    subtitle: "Book Search Engine",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An app designed by me and another student to make a better search process but this time with books. ",
     image: "./project-2.gif",
-    link: "https://www.youtube.com/watch?v=gHkM_lmy5X8",
+    link: "https://book-search-engine-4.herokuapp.com/",
   },
   {
     title: "Project 3",
@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Schmoopy Doopy",
-    company: "Zoozle",
+      "Fox has a presence and brings an energy to a room, even virtual, that makes everyone's mood brighter! He is not only fun to work with, but brings his coding talent with his personality. He is quick to learn and also quick to address questions. I am confident that it'd be an asset to have Fox as a coworker in the future!",
+    image: "sue_awesome.jpg",
+    name: "Sue Lee",
+    company: "Full-Stack MERN Developer",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Megatron",
-    company: "Dooble.io",
+      "Fox explores code like a creative explores color. His ability to work as a team to accomplish a common goal is incredible, and he is very quick witted. Fox would be a great addition to any team oriented project.",
+    image: "cole_awesome.jpg",
+    name: "Cole Cochran",
+    company: "Full Stack Web Dev | React | HTML, CSS, JS |",
   },
 ];
 
