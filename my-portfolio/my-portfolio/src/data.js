@@ -3,9 +3,9 @@ export const projects = [
     title: "Project 1",
     subtitle: "Retail Therapy",
     description:
-      "An group designed app made in basic in html to give your retail therapy a smooth face that is linked to amazon when you search your products.",
+      "A group designed app made in basic in html to give your retail therapy a smooth face that is linked to amazon when you search your products.",
     image: "./project-1.gif",
-    link: "https://www.youtube.com/watch?v=xHoxkD8kKJg",
+    link: "https://vookmirvookmir.github.io/Project1-TheAppenders/",
   },
   {
     title: "Project 2",

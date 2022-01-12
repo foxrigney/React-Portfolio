@@ -11,7 +11,7 @@ export default function Contact() {
           <video autoPlay loop muted
             width="90%"
             height="100%"
-            title="map"
+            title="Hi!, I'm Fox"
             className="absolute inset-0"
             frameBorder={0}
             marginHeight={0}
