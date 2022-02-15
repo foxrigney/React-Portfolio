@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A group designed app made in basic in html to give your retail therapy a smooth face that is linked to amazon when you search your products.",
     image: "./project-1.gif",
-    link: "https://vookmirvookmir.github.io/Project1-TheAppenders/",
+    link: "https://github.com/Mitchell-est-Robbins/Retail-Therapy",
   },
   {
     title: "Project 2",
